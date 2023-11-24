@@ -1,3 +1,6 @@
+print("Welcome to our Python calculator")
+print("--------------------------------")
+
 n1 = int(input('Please enter first number: '))
 
 n2 = int(input('Please enter second number: '))
